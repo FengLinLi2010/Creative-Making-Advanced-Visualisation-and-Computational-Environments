@@ -1,4 +1,5 @@
 # conservation
+![image](https://github.com/FengLinLi2010/Creative-Making-Advanced-Visualisation-and-Computational-Environments/blob/main/bigshow.jpg)
 ## Project Introduce
 * Laozi, the ancient Chinese philosopher, believed that balance exists between all things, some of them static and stable, others active and flexible; There may be immutable laws of disordered change, and there may be an underlying relationship between two unrelated individuals. Such connections exist in a variety of forms, in the universe, in society, even in virtual networks.
 * In our project, the two ends of the screen are the physical world and the virtual world. People in the virtual world are mirror images of people in the real world. Avatars are controlled by people in the real world using Kinect. Their distance is constant, and the avatar moves backward as the person moves forward. In the process, energy travels back and forth between the two worlds in the form of wind.
